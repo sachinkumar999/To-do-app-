@@ -32,3 +32,11 @@ How to Use 🚀
 
 ## Preview
 ![My Webpage Screenshot](image.png)
+
+# 📝 To-Do App  
+
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-blue?style=for-the-badge)](https://sachinkumar999.github.io/To-do-app-/)  
+
+A clean, minimalistic, and interactive **To-Do List** web app built with **HTML**, **CSS**, and **JavaScript**.  
+Easily add, manage, and delete your daily tasks — all in a visually appealing interface.  
+
