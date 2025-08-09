@@ -28,3 +28,7 @@ How to Use 🚀
 -➕ Click Submit Task to add it to the list.
 
 -🗑️ Click the Delete button next to a task to remove it.
+
+
+## Preview
+![My Webpage Screenshot](image.png)
